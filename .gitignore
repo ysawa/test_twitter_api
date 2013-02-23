@@ -1,5 +1,7 @@
 /Gemfile.lock
 
+config/config.rb
+
 *.gem
 *.rbc
 .bundle

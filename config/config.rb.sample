@@ -1,0 +1,8 @@
+require "twitter"
+
+Twitter.configure do |config|
+  config.consumer_key = "" # Consumer key
+  config.consumer_secret = "" # Consumer secret
+  config.oauth_token = "" # OAuth token
+  config.oauth_token_secret = "" # OAuth token secret
+end
